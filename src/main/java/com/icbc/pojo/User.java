@@ -13,11 +13,11 @@ public class User {
     private Date birthday;
     private Date updated;
     private String note;
-    private String b1;
-    private String b3;
-    private String c1;
-    private String c1;
-    private String c2;
+    private String aaa1;
+    private String bbbb3;
+    private String ccccc1;
+    private String eeeee1;
+    private String ffffff2;
 
 
     public Long getId() {
