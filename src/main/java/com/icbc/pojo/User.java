@@ -12,7 +12,9 @@ public class User {
     private Integer sex;
     private Date birthday;
     private Date updated;
-    private String note;
+    private String d1;
+    private String d2;
+    private String d3;
 
 
 
