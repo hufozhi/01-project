@@ -18,6 +18,17 @@ public class User {
     private String tom3;
     private String tom4;
     private String tom5;
+    private String aaa1;
+    private String bbbb3;
+    private String ccccc1;
+    private String eeeee1;
+    private String ffffff2;
+    private String shop1;
+    private String shoppp3;
+    private String shoopppppp1;
+    private String shopppppppp1;
+    private String shopppppp2;
+
 
 
     public Long getId() {
