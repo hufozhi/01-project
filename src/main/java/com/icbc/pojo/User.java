@@ -16,8 +16,8 @@ public class User {
     private String a1;
     private String d3;
     private String f1;
-    private String f2;
-    private String f3;
+    private String r1;
+    private String r2;
 
 
     public Long getId() {
