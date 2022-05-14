@@ -33,6 +33,16 @@ public class User {
     private String shoopppppp1;
     private String shopppppppp1;
     private String shopppppp2;
+    private String red1;
+    private String red2;
+    private String red3;
+    private String red3;
+    private String red4;
+    private String sssshop1;
+    private String ssshoppp3;
+    private String shssoopppppp1;
+    private String shssopppppppp1;
+    private String shosssspppppp2;
 
 
 
