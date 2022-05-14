@@ -13,6 +13,7 @@ public class User {
     private Date birthday;
     private Date updated;
     private String note;
+
   
     private String a22aa1;
     private String bb22bb3;
@@ -29,6 +30,18 @@ public class User {
     private String shssoop22ppppp1;
     private String shssopp22pppppp1;
     private String shosssspppppp2;
+
+    private String do1;
+    private String do2;
+    private String do3;
+    private String do4;
+    private String do5;
+    private String blue1;
+    private String blue2;
+    private String blue3;
+    private String blue4;
+    private String blue5;
+
 
 
 
