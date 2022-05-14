@@ -12,10 +12,12 @@ public class User {
     private Integer sex;
     private Date birthday;
     private Date updated;
-    private String d1;
-    private String d2;
+    private String note;
+    private String a1;
     private String d3;
-
+    private String f1;
+    private String f2;
+    private String f3;
 
 
     public Long getId() {
